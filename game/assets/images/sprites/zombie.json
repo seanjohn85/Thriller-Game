@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "z1.png",
+	"frame": {"x":119,"y":1,"w":20,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":42},
+	"sourceSize": {"w":20,"h":42}
+},
+{
+	"filename": "z2.png",
+	"frame": {"x":97,"y":1,"w":20,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":43},
+	"sourceSize": {"w":20,"h":43}
+},
+{
+	"filename": "z3.png",
+	"frame": {"x":74,"y":1,"w":21,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":43},
+	"sourceSize": {"w":21,"h":43}
+},
+{
+	"filename": "z4.png",
+	"frame": {"x":26,"y":1,"w":22,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":43},
+	"sourceSize": {"w":22,"h":43}
+},
+{
+	"filename": "z5.png",
+	"frame": {"x":50,"y":1,"w":22,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":43},
+	"sourceSize": {"w":22,"h":43}
+},
+{
+	"filename": "z6.png",
+	"frame": {"x":1,"y":1,"w":23,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":43},
+	"sourceSize": {"w":23,"h":43}
+},
+{
+	"filename": "z7.png",
+	"frame": {"x":141,"y":1,"w":24,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":40},
+	"sourceSize": {"w":24,"h":40}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "zombie.png",
+	"format": "RGBA8888",
+	"size": {"w":166,"h":45},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f4645794a39ad0158587409b0890dfbc:c300780d8d4edf292eef0aa5518dc28f:671cfcca2facf02865d2d7530477df67$"
+}
+}

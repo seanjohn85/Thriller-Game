@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Thriller Game By John Kenny</title>
+    <!-- prevents user zooming on screen pinch-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- allows mobile users to add a shortcut-->
+    <meta name="mobile-web-app-capable" content="yes">
+    <!-- compatible with an apple device-->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <!-- external library for embeded on screen game controls -->
+    <script type="text/javascript" src="js/gamecontroller.min.js"></script>
+    <!-- external library for game engine -->
+    <script type="text/javascript" src="js/phaser.min.js"></script>
+    <script type="text/javascript" src="js/boot.js"></script>
+    <script type="text/javascript" src="js/preload.js"></script>
+    <script type="text/javascript" src="js/mainMenu.js"></script>
+    <script type="text/javascript" src="js/game.js"></script>
+    <script type="text/javascript" src="js/gameOver.js"></script>
+    <script type="text/javascript" src="js/complete.js"></script>
+
+    <!-- ensures goes to the edges -->
+    <style>
+        body {
+            padding: 0px;
+            margin: 0px;
+            background-color: #000;
+        }
+    </style>
+
+
+</head>
+
+<body>
+
+    <!-- include the sart file to use all the other script objects to create a game-->
+    <script src="js/start.js"></script>
+
+</body>
+
+</html>
